@@ -4,7 +4,7 @@ plugins:
 theme: minima
 title: FNAL EAF News
 description: Subscribe to get news about the Fermilab EAF
-baseurl: /assets
+baseurl: /newsfeed
 exclude:
   - src
   - README.md
