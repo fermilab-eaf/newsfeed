@@ -1,0 +1,12 @@
+safe: true
+plugins:
+  - jekyll-feed
+theme: minima
+title: FNAL EAF News
+description: Subscribe to get news about the Fermilab EAF
+baseurl: /assets
+exclude:
+  - src
+  - README.md
+feed:
+  posts_limit: 1
